@@ -1,0 +1,19 @@
+{
+  "name": "technology-watch",
+  "version": "1.0.0",
+  "description": "Technology Watch talk",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ThomasFerro/technology-watch.git"
+  },
+  "author": "Thomas Ferro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThomasFerro/technology-watch/issues"
+  },
+  "homepage": "https://github.com/ThomasFerro/technology-watch#readme"
+}
